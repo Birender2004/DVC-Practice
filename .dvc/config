@@ -1,0 +1,4 @@
+[core]
+    remote = warehouse
+['remote "warehouse"']
+    url = ../S3
